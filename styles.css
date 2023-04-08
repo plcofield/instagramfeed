@@ -9,15 +9,32 @@
 .header{
     text-align: center;
     margin-top: 10px;
-    color:white;
+    color:lightskyblue;
+    margin: 10px 0 5px 5px;
 }
 .box{
     width: 600px;
-    height: 500px;
+    height: 550px;
     background: gray;
     margin:auto;
 
 }
 .box{
     margin-top: 30px;
+}
+
+.headerbox{
+    display: flex;
+}
+
+.date{
+    margin-left: 290px;
+    color:lightskyblue
+}
+.img{
+    margin-bottom: 15px;
+}
+.textbody{
+    margin:0 10px;
+    font-size: 18px;
 }
